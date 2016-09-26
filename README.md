@@ -3,7 +3,7 @@
 
 Name: `Rey Pocius`
 
-ONID ID: `932691660`
+ONID ID: `pociusr`
 
 Link to my CS 290 page: `http://web.engr.oregonstate.edu/~pociusr/index.html`
 
